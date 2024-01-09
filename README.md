@@ -3,7 +3,7 @@ Tools for SEO Specialists
 
 **#1 Slugify:** removes space in text and turn it into dash. also turn all capital letters into small letters. (used for url and image file name)
 
-**#2 Title And Meta Description Scrapper:** give all urls in .txt file, get title & description of every url in .csv file.
+**#2 Title And Meta Description Scraper:** give all urls in .txt file, get title & description of every url in .csv file.
 
 **#3 Schema Scraper:** extracts schema of url.
 
